@@ -1,11 +1,10 @@
 # OCTANET_AUGUST_ToDoList Simple Todoistif (Todo List by Aatif) Web App with HTML, CSS and JavaScript.
 
-# Features
+# Features :
 
 Add new todos with a user-friendly interface.
-Mark todos as completed.
-Delete completed todos or those no longer needed.
-Save todos to the local storage.
+Edit/Update todos.
+Delete completed todos.
 
 # Software Requirements :
 IDE - Brackets
