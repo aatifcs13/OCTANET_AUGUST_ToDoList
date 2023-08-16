@@ -11,4 +11,9 @@ Save todos to the local storage.
 IDE - Brackets
 Tech Stack : HTML5, CSS3, JavaScript & Bootstrap4
 
+<img src= "todo.png"/>
+<img src= "todoadd.png"/>
+<img src= "todo-updated.png"/>
+<img src= "todo-delete.png"/>
+
 <div align="center"><p>Show some ❤️ by starring this repo.!<p></div>
